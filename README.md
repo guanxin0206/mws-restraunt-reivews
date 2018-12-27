@@ -8,9 +8,7 @@ For the **Restaurant Reviews** projects, you will incrementally convert a static
 
 ### How To View This Project
 
-1. Download the project, and start up a simple HTTP server to serve up the site files on your local computer. [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en) is easy to install and launch.  Once launched, choose the project folder and start the web server.
-
-   ![Web Server for Chrome Setup](img/web-server-for-chrome.PNG)
+Use http-server in your terminal installed by npm or by using http.server in python module like python3 -m http.server 3000
 
 2. With the server running, visit the site: `http://localhost:3000`
 
@@ -20,3 +18,7 @@ This repository is using [leafletjs](https://leafletjs.com/) with [Mapbox](https
 I replaced <your MAPBOX API KEY HERE> with my token from [Mapbox](https://www.mapbox.com/).
 
 ---
+
+## Reference:
+
+https://github.com/ChavahJ/mws-restraunt-reivews
